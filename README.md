@@ -2,44 +2,51 @@
 
 **Platform Engineer** specializing in distributed systems, event-driven architecture, and production infrastructure.
 
-Currently building **[SecureDrop](https://github.com/Ujjwal-Devloper-5/secure-drop-backend)** — an enterprise-grade authentication platform demonstrating production-ready microservices architecture.
+Currently building **[SecureDrop](https://github.com/Ujjwal-Devloper-5/secure-drop-backend)** — an authentication platform demonstrating production-oriented microservices architecture.
 
 ---
 
 ## 🚀 Featured Project: SecureDrop
 
-**Enterprise Authentication Platform** with production-grade distributed systems design.
+**Distributed Authentication Platform** with production-focused distributed systems design.
 
 ### Architecture Highlights
-- **11-microservice ecosystem** with domain-driven design
-- **Apache Kafka** event streaming with Dead Letter Queue
+
+- **11-microservice ecosystem** with clear domain boundaries
+- **Apache Kafka** event streaming with Dead Letter Queue (DLQ) and retry mechanisms
 - **Polyglot persistence** (MySQL + MongoDB + Redis)
-- **Kubernetes deployment** with ArgoCD GitOps
+- **Kubernetes deployment architecture** with ArgoCD GitOps workflows
 - **73+ automated tests** (85%+ coverage)
-- **Zero-trust security** with JWT rotation and RBAC
-- **Full observability** (Prometheus + Grafana)
-- **8-phase CI/CD pipeline** with GitHub Actions
+- **Zero-trust security model** with JWT rotation and RBAC
+- **Full observability stack** (Prometheus + Grafana + structured logging)
+- **Multi-stage CI/CD pipeline** using GitHub Actions
 
 ### Tech Stack
-`Node.js` `Go` `Apache Kafka` `Kubernetes` `MySQL` `MongoDB` `Redis` `Docker` `Prometheus` `Grafana` `ArgoCD` `GitHub Actions`
 
-**[→ View SecureDrop Repository](https://github.com/Ujjwal-Devloper-5/secure-drop-backend)**  
-**[→ Live Demo](https://securedrop-demo.yourdomain.com)** *(deploy first)*  
-**[→ Technical Documentation](https://github.com/Ujjwal-Devloper-5/secure-drop-backend/blob/master/README.md)**
+`Node.js` `Go` `Apache Kafka` `Kubernetes` `MySQL` `MongoDB` `Redis`  
+`Docker` `Prometheus` `Grafana` `ArgoCD` `GitHub Actions`
+
+**→ View SecureDrop Repository**  
+https://github.com/Ujjwal-Devloper-5/secure-drop-backend  
+
+**→ Technical Documentation**  
+https://github.com/Ujjwal-Devloper-5/secure-drop-backend/blob/master/README.md  
 
 ---
 
 ## 💼 What I Build
 
-**Distributed Systems & Infrastructure:**
-- Microservices architectures with event-driven design
+### Distributed Systems & Infrastructure
+
+- Microservices architectures with event-driven communication
 - Production Kafka implementations (DLQ, retry logic, consumer groups)
 - Kubernetes deployments with GitOps workflows
-- Comprehensive CI/CD pipelines
-- Observability stacks (Prometheus, Grafana, structured logging)
-- Zero-trust security implementations
+- CI/CD automation pipelines
+- Observability stacks (metrics, logging, monitoring)
+- Secure authentication and authorization systems
 
-**Recent Focus:**
+### Recent Focus
+
 - Platform engineering patterns
 - Event-driven architecture
 - Production operations & SRE practices
@@ -49,48 +56,48 @@ Currently building **[SecureDrop](https://github.com/Ujjwal-Devloper-5/secure-dr
 
 ## 🛠 Technical Skills
 
-**Backend & APIs**  
+### Backend & APIs  
 Node.js • Express.js • Go • REST APIs • Microservices • Event-Driven Architecture
 
-**Message Queues & Streaming**  
-Apache Kafka • KafkaJS • Dead Letter Queue • Event Sourcing • Retry Logic
+### Message Queues & Streaming  
+Apache Kafka • KafkaJS • Dead Letter Queue • Retry Logic • Consumer Groups
 
-**Databases**  
+### Databases  
 MySQL • MongoDB • Redis • Polyglot Persistence • Query Optimization
 
-**Container & Orchestration**  
+### Container & Orchestration  
 Docker • Kubernetes • StatefulSets • Deployments • HPA • Health Probes
 
-**CI/CD & GitOps**  
-GitHub Actions • ArgoCD • Multi-Phase Pipelines • Automated Testing • GitOps
+### CI/CD & GitOps  
+GitHub Actions • ArgoCD • Multi-Stage Pipelines • Automated Testing • GitOps
 
-**Observability**  
+### Observability  
 Prometheus • Grafana • Winston • Structured Logging • Custom Metrics • Alerting
 
-**Security**  
+### Security  
 JWT • RBAC • Zero-Trust Architecture • Rate Limiting • Token Rotation • bcrypt
 
-**Infrastructure**  
+### Infrastructure  
 Linux • Nginx • Reverse Proxy • Load Balancing • Production Operations
 
-**Testing**  
+### Testing  
 Jest • Unit Testing • Integration Testing • E2E Testing • k6 Load Testing
 
 ---
 
 ## 📊 GitHub Activity
 
-![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ujjwal-Devloper-5&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+![Ujjwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ujjwal-Devloper-5&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-Devloper-5&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-Devloper-5&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=8)
 
 ---
 
 ## 🎯 Currently
 
-- 🔨 Building production-grade distributed systems
+- 🔨 Building production-oriented distributed systems
 - 📚 Deepening expertise in system design & scalability
-- 🌐 Seeking remote opportunities in Platform/Infrastructure/Backend Engineering
+- 🌐 Seeking remote opportunities in Platform / Infrastructure / Backend Engineering
 - 💡 Exploring advanced Kubernetes patterns and service mesh architectures
 
 ---
@@ -98,27 +105,27 @@ Jest • Unit Testing • Integration Testing • E2E Testing • k6 Load Testin
 ## 📫 Connect With Me
 
 **Email:** ujjwalkumarbgpg6@gmail.com  
-**LinkedIn:** [linkedin.com/in/ujjwalkumar-7b3871256](https://www.linkedin.com/in/ujjwalkumar-7b3871256)  
-**Location:** Jaipur, India (Open to Remote - US/EU hours available)
+**LinkedIn:** https://www.linkedin.com/in/ujjwalkumar-7b3871256  
+**Location:** Jaipur, India (Open to remote roles — US/EU hours available)
 
 ---
 
 ## 🏆 Technical Achievements
 
-- ✅ Architected 11-microservice platform from scratch
-- ✅ Implemented production Kafka with DLQ and retry mechanisms
-- ✅ Achieved 85%+ test coverage with comprehensive testing strategy
-- ✅ Built 8-phase automated CI/CD pipeline with GitOps deployment
-- ✅ Documented 809-line root cause analysis of production issues
-- ✅ Designed zero-trust security architecture with JWT rotation
+- Architected an 11-microservice platform from scratch
+- Implemented Kafka-based event-driven communication with DLQ and retry mechanisms
+- Achieved 85%+ automated test coverage
+- Built a multi-stage CI/CD pipeline with GitOps deployment
+- Conducted detailed root cause analysis of distributed system issues
+- Designed zero-trust security architecture with JWT rotation and RBAC
 
 ---
 
 ## 📚 Notable Documentation
 
-- **[Kafka Production Issues Analysis](https://github.com/Ujjwal-Devloper-5/secure-drop-backend/blob/master/KAFKA_ISSUES_ANALYSIS.md)** — 809-line deep-dive into Kafka challenges
+- **[Kafka Production Issues Analysis](https://github.com/Ujjwal-Devloper-5/secure-drop-backend/blob/master/KAFKA_ISSUES_ANALYSIS.md)** — Deep dive into Kafka challenges and failure handling
 - **[SecureDrop Architecture](https://github.com/Ujjwal-Devloper-5/secure-drop-backend/blob/master/docs/ARCHITECTURE.md)** — System design documentation
-- **[CI/CD Pipeline Design](https://github.com/Ujjwal-Devloper-5/secure-drop-backend/blob/master/.github/workflows/complete-cicd.yml)** — 8-phase automated workflow
+- **[CI/CD Pipeline Design](https://github.com/Ujjwal-Devloper-5/secure-drop-backend/blob/master/.github/workflows/complete-cicd.yml)** — Automated multi-stage workflow
 
 ---
 
@@ -127,4 +134,4 @@ Jest • Unit Testing • Integration Testing • E2E Testing • k6 Load Testin
 ---
 
 *Open to Platform Engineering, Infrastructure Engineering, Backend Engineering, and SRE opportunities.*  
-*Let's build scalable systems together.*
+*Let’s build scalable systems together.*
