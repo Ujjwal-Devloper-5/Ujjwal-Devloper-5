@@ -1,87 +1,130 @@
-<h1 align="center">🛡️ Ujjwal Kumar</h1>
-<h3 align="center">18 y/o Full Stack Developer | Python Wizard | AI + Cybersecurity Explorer | Builder of Real Tools</h3>
+# Ujjwal Kumar
+
+**Platform Engineer** specializing in distributed systems, event-driven architecture, and production infrastructure.
+
+Currently building **[SecureDrop](https://github.com/Ujjwal-Devloper-5/secure-drop-backend)** — an enterprise-grade authentication platform demonstrating production-ready microservices architecture.
 
 ---
 
-## 🙏 Welcome
+## 🚀 Featured Project: SecureDrop
 
-I'm **Ujjwal**, a self-taught developer from India who believes in one simple truth:
+**Enterprise Authentication Platform** with production-grade distributed systems design.
 
-> "**Build things that solve real problems — even if no one is watching.**"
+### Architecture Highlights
+- **11-microservice ecosystem** with domain-driven design
+- **Apache Kafka** event streaming with Dead Letter Queue
+- **Polyglot persistence** (MySQL + MongoDB + Redis)
+- **Kubernetes deployment** with ArgoCD GitOps
+- **73+ automated tests** (85%+ coverage)
+- **Zero-trust security** with JWT rotation and RBAC
+- **Full observability** (Prometheus + Grafana)
+- **8-phase CI/CD pipeline** with GitHub Actions
 
-At 18, I'm not just learning.  
-I'm building my own AI, crafting home security systems, scanning networks, and writing every line of code from scratch — not because someone told me to, but because I *want* to.
+### Tech Stack
+`Node.js` `Go` `Apache Kafka` `Kubernetes` `MySQL` `MongoDB` `Redis` `Docker` `Prometheus` `Grafana` `ArgoCD` `GitHub Actions`
 
-This GitHub is my lab, my notebook, and my war room.
-
----
-
-## 🚀 What I Build
-
-- 🧠 **Sharvani AI** – My personal voice-based AI assistant with natural interaction, wake word detection, and DeepSeek intelligence  
-- 🛡️ **Rakshak AI** – A home security system that uses face + voice recognition and intruder logic with motion sensing  
-- 📡 **Yodha AI** – A network defense system that scans local devices, detects spoofing, and alerts in real time  
-- 🧰 **Terminal AI Tools** – I build Hollywood-style interactive terminals with Python + Bash + TTS + GPT APIs  
-- 🌐 **Secure Full Stack Web Apps** – Built complete apps using Flask, Tailwind CSS, and SQLite
-
----
-
-## 🛠️ Tech Stack I Use
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv)
-![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=sqlite)
+**[→ View SecureDrop Repository](https://github.com/Ujjwal-Devloper-5/secure-drop-backend)**  
+**[→ Live Demo](https://securedrop-demo.yourdomain.com)** *(deploy first)*  
+**[→ Technical Documentation](https://github.com/Ujjwal-Devloper-5/secure-drop-backend/blob/master/README.md)**
 
 ---
 
-## 🔍 What I’m Learning Now
+## 💼 What I Build
 
-- 🤖 **Machine Learning** with TensorFlow & Python  
-- 🔓 **Bug Bounty & Ethical Hacking** via Hack The Box & BugCrowd  
-- ☁️ **Deployments & Security-focused DevOps**
+**Distributed Systems & Infrastructure:**
+- Microservices architectures with event-driven design
+- Production Kafka implementations (DLQ, retry logic, consumer groups)
+- Kubernetes deployments with GitOps workflows
+- Comprehensive CI/CD pipelines
+- Observability stacks (Prometheus, Grafana, structured logging)
+- Zero-trust security implementations
 
----
-
-## 🌱 Philosophy
-
-- I build with focus on **privacy, real-world usefulness, and total control**
-- I don't follow trends — I follow **truth**
-- Age means nothing when you're **committed to mastery**
-
----
-
-## 🔗 Let’s Connect
-
-- 📧 **Email:** ujjwalkumarbgpg6@gmail.com  
-- 💻 **GitHub:** [github.com/Ujjwal-Devloper-5](https://github.com/Ujjwal-Devloper-5)
+**Recent Focus:**
+- Platform engineering patterns
+- Event-driven architecture
+- Production operations & SRE practices
+- System design & scalability
 
 ---
 
-## 📌 Featured Repositories
+## 🛠 Technical Skills
 
-### 🔹 [Sharvani AI](https://github.com/Ujjwal-Devloper-5/Sharvani-AI)
-> Voice assistant with Whisper input, Edge TTS output, DeepSeek integration, wake word, and custom command execution
+**Backend & APIs**  
+Node.js • Express.js • Go • REST APIs • Microservices • Event-Driven Architecture
 
-### 🔹 [Rakshak AI](https://github.com/Ujjwal-Devloper-5/Rakshak-AI)
-> Face + voice recognition-based security tool with motion detection, override logic, and offline verification
+**Message Queues & Streaming**  
+Apache Kafka • KafkaJS • Dead Letter Queue • Event Sourcing • Retry Logic
 
-### 🔹 [Yodha AI](https://github.com/Ujjwal-Devloper-5/Yodha-AI)
-> Local network scanning, MAC spoof detection, JSON-based logging, alert system — built for real-world use
+**Databases**  
+MySQL • MongoDB • Redis • Polyglot Persistence • Query Optimization
+
+**Container & Orchestration**  
+Docker • Kubernetes • StatefulSets • Deployments • HPA • Health Probes
+
+**CI/CD & GitOps**  
+GitHub Actions • ArgoCD • Multi-Phase Pipelines • Automated Testing • GitOps
+
+**Observability**  
+Prometheus • Grafana • Winston • Structured Logging • Custom Metrics • Alerting
+
+**Security**  
+JWT • RBAC • Zero-Trust Architecture • Rate Limiting • Token Rotation • bcrypt
+
+**Infrastructure**  
+Linux • Nginx • Reverse Proxy • Load Balancing • Production Operations
+
+**Testing**  
+Jest • Unit Testing • Integration Testing • E2E Testing • k6 Load Testing
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
-![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ujjwal-Devloper-5&show_icons=true&theme=tokyonight)
+![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ujjwal-Devloper-5&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-Devloper-5&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+
+---
+
+## 🎯 Currently
+
+- 🔨 Building production-grade distributed systems
+- 📚 Deepening expertise in system design & scalability
+- 🌐 Seeking remote opportunities in Platform/Infrastructure/Backend Engineering
+- 💡 Exploring advanced Kubernetes patterns and service mesh architectures
 
 ---
 
-> “**Don’t wait to be hired. Build like you're already working for yourself.**”
+## 📫 Connect With Me
+
+**Email:** ujjwalkumarbgpg6@gmail.com  
+**LinkedIn:** [linkedin.com/in/ujjwalkumar-7b3871256](https://www.linkedin.com/in/ujjwalkumar-7b3871256)  
+**Location:** Jaipur, India (Open to Remote - US/EU hours available)
 
 ---
+
+## 🏆 Technical Achievements
+
+- ✅ Architected 11-microservice platform from scratch
+- ✅ Implemented production Kafka with DLQ and retry mechanisms
+- ✅ Achieved 85%+ test coverage with comprehensive testing strategy
+- ✅ Built 8-phase automated CI/CD pipeline with GitOps deployment
+- ✅ Documented 809-line root cause analysis of production issues
+- ✅ Designed zero-trust security architecture with JWT rotation
+
+---
+
+## 📚 Notable Documentation
+
+- **[Kafka Production Issues Analysis](https://github.com/Ujjwal-Devloper-5/secure-drop-backend/blob/master/KAFKA_ISSUES_ANALYSIS.md)** — 809-line deep-dive into Kafka challenges
+- **[SecureDrop Architecture](https://github.com/Ujjwal-Devloper-5/secure-drop-backend/blob/master/docs/ARCHITECTURE.md)** — System design documentation
+- **[CI/CD Pipeline Design](https://github.com/Ujjwal-Devloper-5/secure-drop-backend/blob/master/.github/workflows/complete-cicd.yml)** — 8-phase automated workflow
+
+---
+
+> **"Build systems that scale. Document decisions that matter. Ship code that works."**
+
+---
+
+*Open to Platform Engineering, Infrastructure Engineering, Backend Engineering, and SRE opportunities.*  
+*Let's build scalable systems together.*
